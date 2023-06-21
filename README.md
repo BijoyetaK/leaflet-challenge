@@ -16,7 +16,7 @@ Module 15 Assignment
   - The dataset having "All Earthquakes from the Past 7 Days" is clicked which gives a json representation of that data. 
   - The URL of this JSON dataset is used to pull in the data for visualization. 
   - The following image shows the the sampling of earthquake data in JSON format:
-  - ![image](https://github.com/BijoyetaK/leaflet-challenge/assets/126313924/b586b8bd-e367-4352-b686-7ec899a67d58)
+   ![image](https://github.com/BijoyetaK/leaflet-challenge/assets/126313924/b586b8bd-e367-4352-b686-7ec899a67d58)
 
   - The JSON is imported and visualized by doing the following: 
   - Using Leaflet, create a map that plots all the earthquakes from your dataset based on their longitude and latitude.
@@ -27,7 +27,7 @@ Module 15 Assignment
   - Pop ups on each circle provide additional information about the earthquake when its associated marker is clicked.
   - A that will provide context for the map data.(Depth pallete)
 
-  - ![image](https://github.com/BijoyetaK/leaflet-challenge/assets/126313924/5f7e18e7-369d-4a49-9a68-126a12d439aa)
+   ![image](https://github.com/BijoyetaK/leaflet-challenge/assets/126313924/5f7e18e7-369d-4a49-9a68-126a12d439aa)
 
 
 
